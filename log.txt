@@ -1,0 +1,51 @@
+[Sun Oct 19 00:00:18 2025] Program started
+[Sun Oct 19 00:00:24 2025] file not found
+[Sun Oct 19 00:00:24 2025] Program ended
+[Sun Oct 19 00:00:28 2025] Program started
+[Sun Oct 19 00:00:33 2025] File has been opened
+[Sun Oct 19 00:00:33 2025] x=-12.650000,y=-2.255000,u=3.205000
+[Sun Oct 19 00:00:33 2025] Q=1.612772
+[Sun Oct 19 00:00:33 2025] Input file has been closed
+[Sun Oct 19 00:00:52 2025] Output file has been opened
+[Sun Oct 19 00:00:52 2025] Result has been written to output file
+[Sun Oct 19 00:00:52 2025] Output file has been closed
+[Sun Oct 19 00:00:52 2025] Program ended
+[Sun Oct 19 00:00:57 2025] Program started
+[Sun Oct 19 00:01:02 2025] File has been opened
+[Sun Oct 19 00:01:02 2025] x=-12.650000,y=-2.255000,u=3.205000
+[Sun Oct 19 00:01:02 2025] Q=1.612772
+[Sun Oct 19 00:01:02 2025] Input file has been closed
+[Sun Oct 19 00:01:22 2025] Output file has been opened
+[Sun Oct 19 00:01:22 2025] Result has been written to output file
+[Sun Oct 19 00:01:22 2025] Output file has been closed
+[Sun Oct 19 00:01:22 2025] Program ended
+[Sun Oct 19 00:01:24 2025] Program started
+[Sun Oct 19 00:01:30 2025] file not found
+[Sun Oct 19 00:01:30 2025] Program ended
+[Sun Oct 19 00:01:35 2025] Program started
+[Sun Oct 19 00:01:39 2025] File has been opened
+[Sun Oct 19 00:01:39 2025] x=-12.650000,y=-2.255000,u=3.205000
+[Sun Oct 19 00:01:39 2025] Q=1.612772
+[Sun Oct 19 00:01:39 2025] Input file has been closed
+[Sun Oct 19 00:01:50 2025] Output file has been opened
+[Sun Oct 19 00:01:50 2025] Result has been written to output file
+[Sun Oct 19 00:01:50 2025] Output file has been closed
+[Sun Oct 19 00:01:50 2025] Program ended
+[Mon Oct 20 10:00:27 2025] Program started
+[Mon Oct 20 10:00:33 2025] File has been opened
+[Mon Oct 20 10:00:33 2025] x=-12.650000,y=-2.255000,u=3.205000
+[Mon Oct 20 10:00:33 2025] Q=1.612772
+[Mon Oct 20 10:00:33 2025] Input file has been closed
+[Mon Oct 20 10:00:42 2025] Output file has been opened
+[Mon Oct 20 10:00:42 2025] Result has been written to output file
+[Mon Oct 20 10:00:42 2025] Output file has been closed
+[Mon Oct 20 10:00:42 2025] Program ended
+[Mon Oct 20 13:28:23 2025] Program started
+[Mon Oct 20 13:28:31 2025] File has been opened
+[Mon Oct 20 13:28:31 2025] x=-12.650000,y=-2.255000,u=3.205000
+[Mon Oct 20 13:28:31 2025] Q=1.612772
+[Mon Oct 20 13:28:31 2025] Input file has been closed
+[Mon Oct 20 13:28:42 2025] Output file has been opened
+[Mon Oct 20 13:28:42 2025] Result has been written to output file
+[Mon Oct 20 13:28:42 2025] Output file has been closed
+[Mon Oct 20 13:28:42 2025] Program ended
